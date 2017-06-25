@@ -1,4 +1,4 @@
-## Setup PrimeNG project with Angular CLI
+## Angular PrimeNG Internationalization using Ngx-Translate
 
 ### Prerequisites
 
