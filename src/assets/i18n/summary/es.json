@@ -1,0 +1,11 @@
+{
+	"Description": "Descripción",
+	"EmployeeID": "ID de empleado",
+	"Experience": "Experiencia",
+	"FirstName": "Nombre de pila",
+	"Gender": "Género",
+	"Grade": "Grado",
+	"LastName": "Apellido",
+	"List of employees": "Lista de empleados",
+	"This is a list of employees registered in the last week": "Esta es una lista de empleados registrados en la última semana"
+}

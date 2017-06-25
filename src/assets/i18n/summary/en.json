@@ -1,0 +1,11 @@
+{
+	"Description": "Description",
+	"EmployeeID": "EmployeeID",
+	"Experience": "Experience",
+	"FirstName": "FirstName",
+	"Gender": "Gender",
+	"Grade": "Grade",
+	"LastName": "LastName",
+	"List of employees": "List of employees",
+	"This is a list of employees registered in the last week": "This is a list of employees registered in the last week"
+}

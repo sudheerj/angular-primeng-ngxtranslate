@@ -1,0 +1,11 @@
+<p-dataTable [value]="employees" [rowStyleClass]="lookupRowStyleClass">
+  <p-header>{{'List of employees' | translate}}</p-header>
+  <p-column field="id" header="{{'EmployeeID' | translate}}"></p-column>
+  <p-column field="firstname" header="{{'FirstName' | translate}}"></p-column>
+  <p-column field="lastname" header="{{'LastName' | translate}}"></p-column>
+  <p-column field="description" header="{{'Description' | translate}}"></p-column>
+  <p-column field="gender" header="{{'Gender' | translate}}"></p-column>
+  <p-column field="grade" header="{{'Grade' | translate}}"></p-column>
+  <p-column field="experience" header="{{'Experience' | translate}}"></p-column>
+  <p-footer>{{'This is a list of employees registered in the last week' | translate}}</p-footer>
+</p-dataTable>

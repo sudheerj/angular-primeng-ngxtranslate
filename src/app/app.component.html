@@ -1,0 +1,17 @@
+<h1>
+  <a [routerLink]="['registration', {lang:langSelect.value}]">
+    {{ 'HOME.Registration' | translate }}
+  </a>
+  <a [routerLink]="['summary', {lang:langSelect.value}]">
+    {{ 'HOME.Summary' | translate }}
+  </a>
+
+  <label style="float:right">
+    {{ 'HOME.SELECT' | translate }}
+    <select #langSelect (change)="translate.use(langSelect.value)">
+      <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
+    </select>
+  </label>
+
+  <router-outlet></router-outlet>
+</h1>

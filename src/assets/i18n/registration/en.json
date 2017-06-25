@@ -1,0 +1,17 @@
+{
+  "Description:": "Description",
+  "Enter first name:": "Enter first name:",
+  "Enter lastname": "Enter lastname",
+  "Enter password": "Enter password",
+  "First Name *:": "First Name *:",
+  "Firstname is required": "Firstname is required",
+  "Form Submitted": "Form Submitted",
+  "Gender *:": "Gender *:",
+  "Gender is required": "Gender is required",
+  "Last Name *:": "Last Name *:",
+  "Lastname is required": "Lastname is required",
+  "Must be longer than 6 characters": "Must be longer than 6 characters",
+  "Password *:": "Password *:",
+  "Password is required": "Password is required",
+  "Employee Registration": "Employee Registration"
+}

@@ -1,0 +1,17 @@
+{
+  "Description:": "Beschreibung",
+  "Enter first name:": "Bitte Vornamen eingeben:",
+  "Enter lastname": "Nachnamen eingeben",
+  "Enter password": "Passwort eingeben",
+  "First Name *:": "Vorname *:",
+  "Firstname is required": "Vorname ist erforderlich",
+  "Form Submitted": "Formular übermittelt",
+  "Gender *:": "Geschlecht *:",
+  "Gender is required": "Geschlecht ist erforderlich",
+  "Last Name *:": "Familienname, Nachname *:",
+  "Lastname is required": "Nachname ist erforderlich",
+  "Must be longer than 6 characters": "Muss länger als 6 Zeichen sein",
+  "Password *:": "Passwort *:",
+  "Password is required": "Passwort wird benötigt",
+  "Employee Registration": "Mitarbeiterregistrierung"
+}
