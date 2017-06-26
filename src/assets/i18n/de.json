@@ -1,6 +1,6 @@
 {
 	"HOME": {
-		"SELECT": "Sprache auswählen",
+		"SELECT": "Sprache auswählen({{number}})",
     "Registration": "Anmeldung",
     "Summary": "Zusammenfassung"
 	}

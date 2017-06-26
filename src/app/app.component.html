@@ -7,7 +7,7 @@
   </a>
 
   <label style="float:right">
-    {{ 'HOME.SELECT' | translate }}
+    {{ 'HOME.SELECT' | translate:param }}
     <select #langSelect (change)="translate.use(langSelect.value)">
       <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
     </select>
